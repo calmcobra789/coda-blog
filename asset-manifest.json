@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/coda-blog/static/css/main.073c9b0a.css",
-    "main.js": "/coda-blog/static/js/main.c0a0da32.js",
-    "static/media/logo.svg": "/coda-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/coda-blog/static/css/main.ebb97a4f.css",
+    "main.js": "/coda-blog/static/js/main.3b6d3f56.js",
+    "static/media/flamingos.jpg": "/coda-blog/static/media/flamingos.05c382f4f4f78c51a56c.jpg",
     "index.html": "/coda-blog/index.html",
-    "main.073c9b0a.css.map": "/coda-blog/static/css/main.073c9b0a.css.map",
-    "main.c0a0da32.js.map": "/coda-blog/static/js/main.c0a0da32.js.map"
+    "main.ebb97a4f.css.map": "/coda-blog/static/css/main.ebb97a4f.css.map",
+    "main.3b6d3f56.js.map": "/coda-blog/static/js/main.3b6d3f56.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c0a0da32.js"
+    "static/css/main.ebb97a4f.css",
+    "static/js/main.3b6d3f56.js"
   ]
 }
