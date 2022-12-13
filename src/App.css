@@ -28,3 +28,15 @@
 h2 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+.im-one {
+  background-image: url("/public/images/chunking1.png");
+  background-size: 100% ;
+  min-height: 25rem;
+}
+
+.im-two {
+  background-image: url("/public/images/chunking2.png");
+  background-size: 100% ;
+  min-height: 25rem;
+}

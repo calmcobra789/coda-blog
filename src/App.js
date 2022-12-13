@@ -31,9 +31,15 @@ function App() {
         <p>Interns are each given a project to own and work on for the summer. These projects aren’t contrived or created for an intern program; rather, they are actual features that the company has flagged as needed for improving the product. For instance, the project I was assigned (improving the performance of how offline edits on your Coda doc get saved) was mine to lead. This required me to really understand the backend of how a Coda doc works, giving me the opportunity to meet a variety of software engineers for their input and advice.</p>
         <p>What's the specific issue? Bulk actions. We’ve all made a couple of edits offline and had them come back once we’re back online, no issue. But, customers sometimes face a scenario where they have a massive build-up of offline edits. Think huge notion import, copy/paste between docs or automatedWhen trying to process these, processUncommittedOps can get stuck if the processing takes too long or it takes too much space. </p>
         <p>A diagram of a performance issue:</p>
-        <img src = "/images/chunking2.png" width = "1400px"></img>
+        <div className = "im-two">
+
+        </div>
+
+        {/* <img src = "/images/chunking2.png" width = "1400px"></img> */}
         <p>A diagram of how my project fixes said issue:</p>
-        <img src = "/images/chunking1.png" width = "1400px"></img>
+        <div className = "im-one">
+
+        </div>
         <p></p>
         <p></p>
         <p></p>
