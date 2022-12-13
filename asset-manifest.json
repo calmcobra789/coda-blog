@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/coda-blog/static/css/main.ebb97a4f.css",
-    "main.js": "/coda-blog/static/js/main.3b6d3f56.js",
+    "main.css": "/coda-blog/static/css/main.6040c3d9.css",
+    "main.js": "/coda-blog/static/js/main.ea70210a.js",
     "static/media/flamingos.jpg": "/coda-blog/static/media/flamingos.05c382f4f4f78c51a56c.jpg",
+    "static/media/chunking1.png": "/coda-blog/static/media/chunking1.d95c4d6da0a94a72304f.png",
+    "static/media/chunking2.png": "/coda-blog/static/media/chunking2.2f1cb641e090994cc705.png",
     "index.html": "/coda-blog/index.html",
-    "main.ebb97a4f.css.map": "/coda-blog/static/css/main.ebb97a4f.css.map",
-    "main.3b6d3f56.js.map": "/coda-blog/static/js/main.3b6d3f56.js.map"
+    "main.6040c3d9.css.map": "/coda-blog/static/css/main.6040c3d9.css.map",
+    "main.ea70210a.js.map": "/coda-blog/static/js/main.ea70210a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebb97a4f.css",
-    "static/js/main.3b6d3f56.js"
+    "static/css/main.6040c3d9.css",
+    "static/js/main.ea70210a.js"
   ]
 }
