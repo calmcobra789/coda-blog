@@ -40,3 +40,8 @@ h2 {
   background-size: 100% ;
   min-height: 25rem;
 }
+
+.body {
+  margin-right: 5%;
+  margin-left: 5%;
+}
